@@ -1,0 +1,21 @@
+body{
+    background-image    :url(background.jpg)
+    
+}
+.headings{
+    color :  #abcdef;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+.button{
+    
+    font-size: 30px;
+    width: 100px;
+    background-color: darksalmon;
+    color: deeppink;
+    
+}
+.div{
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+}

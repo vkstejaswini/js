@@ -1,0 +1,26 @@
+const number = ['one','two','three','four','five','six','seven']
+number[1] = 'something'
+console.log(number)
+//start
+
+number.shift()//shifts it's index from 0 to 1
+console.log(number)
+
+number.unshift('something')
+console.log(number)
+
+//end
+
+//number.pop()
+console.log('element to be deleted is:'+number.pop())
+
+console.log(number)
+
+
+number.push('four')
+console.log(number)
+
+//end
+
+number.splice(2,2,'something')//start from 2,delete one element and insert something
+console.log(number)
