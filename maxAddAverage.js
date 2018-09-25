@@ -1,4 +1,4 @@
-/*java script program to find maximum of two numbers, average and sum of two numbers
+/*java script program to find maximum of two numbers, average and sum of five numbers
 */
 let a=[2,6,8,4,5]
 sum=0
